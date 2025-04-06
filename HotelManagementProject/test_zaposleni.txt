@@ -1,0 +1,2 @@
+Ana,Anić,Ženski,Adresa 1,ana_anic,lozinka,1995-03-15,123456789,5,10,65001.25,60000.0,10002.5,MAID
+Marko,Marković,Muški,Adresa 2,marko_markovic,lozinka,1990-05-20,987654321,6,11,75501.5,70000.0,11003.0,RECEPTIONIST

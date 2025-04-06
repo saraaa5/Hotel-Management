@@ -1,0 +1,2 @@
+84d98cc1-a88d-44c1-87d3-f8e43f33aec7,2024-07-05,2024-07-09,NA_CEKANJU,test_user,101,Breakfast,Parking,0.0
+31342523-df24-4fa2-a0eb-273c4eac1746,2024-07-06,2024-07-11,NA_CEKANJU,test_user,101,Breakfast,0.0
